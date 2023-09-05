@@ -1,2 +1,2 @@
-# Materiais produzidos na disciplina Topicos-Especiais-em-Computacao-II
+# Materiais produzidos na disciplina Tópicos Especiais em Computacão-II
 
